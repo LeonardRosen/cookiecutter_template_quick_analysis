@@ -1,0 +1,1 @@
+# cookiecutter_template_quick_analysis
