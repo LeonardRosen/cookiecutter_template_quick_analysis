@@ -1,6 +1,6 @@
 {
-    "project_name": "My Poetry Project",
-    "project_slug": "my_poetry_project",
+    "project_name": "My Data Science Project",
+    "project_slug": "my_ds_project",
     "author_name": "Leonard Rosen",
     "python_version": "3.11"
 }

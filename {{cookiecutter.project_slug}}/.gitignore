@@ -1,5 +1,12 @@
 __pycache__/
 *.pyc
 .env
-.notebook_checkpoints/
+.ipynb_checkpoints/
 data/
+
+.venv/
+*.egg-info/
+dist/
+build/
+
+.DS_Store
